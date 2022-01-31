@@ -7,7 +7,8 @@ function sum (a , b){
 }
 
 function division (a , b){
-    return a/b;
+    return Math.division(a/b);
 }
  
 module.exports = subtraction;
+
